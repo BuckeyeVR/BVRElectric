@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicsElectroFieldThing_NOOCULUS", "PhysicsElectroFieldThing_NOOCULUS.csproj", "{0661C257-0CD6-C420-1212-703E5D1672AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicsElectroFieldThing_NOOCULUS.Editor", "PhysicsElectroFieldThing_NOOCULUS.Editor.csproj", "{2710FA1F-5633-C718-E4B6-2CE0A0C51801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0661C257-0CD6-C420-1212-703E5D1672AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0661C257-0CD6-C420-1212-703E5D1672AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0661C257-0CD6-C420-1212-703E5D1672AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0661C257-0CD6-C420-1212-703E5D1672AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2710FA1F-5633-C718-E4B6-2CE0A0C51801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2710FA1F-5633-C718-E4B6-2CE0A0C51801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2710FA1F-5633-C718-E4B6-2CE0A0C51801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2710FA1F-5633-C718-E4B6-2CE0A0C51801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

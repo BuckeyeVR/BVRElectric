@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2E7AD2B8-E510-8D52-C7D8-F0643A9EDE8C}") = "PhysicsElectroFieldThing", "Assembly-CSharp.csproj", "{BAAC4F0E-BE80-F55E-AB0A-5177230C9BCF}"
+EndProject
+Project("{2E7AD2B8-E510-8D52-C7D8-F0643A9EDE8C}") = "PhysicsElectroFieldThing", "Assembly-CSharp-Editor.csproj", "{47B9B7B6-F2D3-0C1D-8B0D-0E25A66B1655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAAC4F0E-BE80-F55E-AB0A-5177230C9BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAC4F0E-BE80-F55E-AB0A-5177230C9BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAC4F0E-BE80-F55E-AB0A-5177230C9BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAC4F0E-BE80-F55E-AB0A-5177230C9BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B9B7B6-F2D3-0C1D-8B0D-0E25A66B1655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B9B7B6-F2D3-0C1D-8B0D-0E25A66B1655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B9B7B6-F2D3-0C1D-8B0D-0E25A66B1655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B9B7B6-F2D3-0C1D-8B0D-0E25A66B1655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																																																																																																																																																						GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
